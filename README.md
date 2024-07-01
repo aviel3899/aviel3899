@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @aviel3899
+- 👋 Hi, I’m Aviel Smolanski
 - 👀 I’m interested in software codding
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on backend, programming and more.
 - 📫 How to reach me: aviel3899@gmail.com
 
 <!---
